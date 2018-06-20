@@ -1,5 +1,5 @@
 # parse-codonw
-parses codonw codon usage table
+parses codonw codon usage table, shortens ORF titles to the first two strings separated by '_' or '\s'
 
 to install navigate to package directory and run:  
 ```
