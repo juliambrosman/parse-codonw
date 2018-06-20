@@ -4,7 +4,7 @@ from setuptools import setup
 
 
 setup(
-    name='codonw_parser',
+    name='parse-codonw',
     version=0.0,
     url='https://github.com/jmargbrosman/parse_codonw',
     license='',

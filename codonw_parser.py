@@ -4,8 +4,8 @@ import re
 import click
 
 @click.command(context_settings=dict(help_option_names=['-h', '--help']))
-@click.argument('codonw_table')
-@click.option('--output_table', default=None)
+@click.argument('codonw-table')
+@click.option('--output-table', default=None)
 def codonw_to_table(codonw_table, output_table=None):
 
     if not output_table:
