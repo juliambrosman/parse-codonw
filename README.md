@@ -8,5 +8,5 @@ python setup.py install
 
 For instructions type:  
 ```
-codonw_parser --help
+codonw-parser --help
 ```
